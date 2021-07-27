@@ -1,1 +1,1 @@
-Trying to build something awesome with tkinter(Idk what is it for now).# Cool-Project-With-Tkinter
+Trying to build a to do list with tkinter.# Cool-Project-With-Tkinter
