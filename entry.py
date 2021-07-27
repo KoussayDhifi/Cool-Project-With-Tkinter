@@ -1,6 +1,11 @@
 import tkinter as tk
-def entry():
-	entry1 = tk.Entry(text="Password",bg="white",fg="blue",show="*")
-	name = entry1.get()
-	entry1.pack()
-	return name
+
+e = tk.Entry()
+
+def entry ():
+	e.pack()
+
+def take():
+	list_do = tk.Label(text=e.get(),fg='yellow')
+
+
